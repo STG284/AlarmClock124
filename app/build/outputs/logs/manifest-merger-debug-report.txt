@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\afc5daa9fce75f96e302e919f54c17da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fae6ff166616217b5225fa2be581d0d1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\104f334b71df96e6ab1c1d3b0da5a021\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ed04e0f774a74341ad3ecc286690e777\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f4904c2b3c778e725a7c363a198f481b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3a8c606c58428be732ae348c6a3ac00f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c891733e08591ba5e3e3d1c38b78d62f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8fd971d29997605e2cb195680481194e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7f9080883cf7e4210d624bcd45f781a5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5bfc1cc892dc6070b2469e720bae39f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53b6bbf711420e350a3637f6d278c17d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c7031bb6f13544d4b147883be905d673\AndroidManifest.xml:17:1-22:12
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+		INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fae6ff166616217b5225fa2be581d0d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fae6ff166616217b5225fa2be581d0d1\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.stg.great.verma.alarmclock1.MainActivity
+ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\afc5daa9fce75f96e302e919f54c17da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\afc5daa9fce75f96e302e919f54c17da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fae6ff166616217b5225fa2be581d0d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fae6ff166616217b5225fa2be581d0d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\104f334b71df96e6ab1c1d3b0da5a021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\104f334b71df96e6ab1c1d3b0da5a021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ed04e0f774a74341ad3ecc286690e777\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ed04e0f774a74341ad3ecc286690e777\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f4904c2b3c778e725a7c363a198f481b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f4904c2b3c778e725a7c363a198f481b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3a8c606c58428be732ae348c6a3ac00f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3a8c606c58428be732ae348c6a3ac00f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c891733e08591ba5e3e3d1c38b78d62f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c891733e08591ba5e3e3d1c38b78d62f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8fd971d29997605e2cb195680481194e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8fd971d29997605e2cb195680481194e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7f9080883cf7e4210d624bcd45f781a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7f9080883cf7e4210d624bcd45f781a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5bfc1cc892dc6070b2469e720bae39f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5bfc1cc892dc6070b2469e720bae39f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53b6bbf711420e350a3637f6d278c17d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53b6bbf711420e350a3637f6d278c17d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c7031bb6f13544d4b147883be905d673\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\verma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c7031bb6f13544d4b147883be905d673\AndroidManifest.xml:20:5-44
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+		INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+		ADDED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
+		INJECTED from W:\My Projects\AndroidStudioProjects\AlarmClock1\app\src\main\AndroidManifest.xml
